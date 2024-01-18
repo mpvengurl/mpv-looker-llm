@@ -17,6 +17,6 @@ application: looker-gen-ai {
 }
 
 constant: CONNECTION_NAME {
-  value: ""
+  value: "mpv-looker-llm-model-palm"
   export: override_optional
 }
