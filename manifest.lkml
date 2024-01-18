@@ -4,7 +4,7 @@ application: looker-gen-ai {
   label: "Looker GenAI Extension"
   # for development: url: "https://localhost:8080/bundle.js"
   # production
-  # file: "bundle.js"
+  file: "bundle.js"
   url: "https://localhost:8080/bundle.js"
   entitlements: {
     use_embeds: yes
