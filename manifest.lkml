@@ -5,6 +5,7 @@ application: looker-gen-ai {
   # for development: url: "https://localhost:8080/bundle.js"
   # production
   # file: "bundle.js"
+  url: "https://localhost:8080/bundle.js"
   entitlements: {
     use_embeds: yes
     use_form_submit: yes
